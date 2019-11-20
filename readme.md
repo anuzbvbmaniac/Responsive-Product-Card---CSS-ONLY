@@ -2,7 +2,6 @@
   <strong> UI Screenshot </strong>
   <p>
     <img src="assets/img/jordan.png"/> </br>
-    <img src="assets/img/tab_1.png" width=""/>
+    <img src="assets/img/presentation.jpg" width=""/>
   <p>
-  <p> Images are taken from Official Nike Website </p>
   
